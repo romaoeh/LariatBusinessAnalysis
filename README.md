@@ -2,6 +2,10 @@
 
 <img width="748" alt="05" src="https://github.com/romaoeh/LariatBusinessAnalysis/assets/131217181/d5f38330-4d15-499c-983d-0a941ac39e51">
 
+<br>
+
+[Link to PDF](https://github.com/romaoeh/LariatBusinessAnalysis/blob/a02fbf3dbba18be3893892a22e0bbe2e600cc468/15.4_LARIAT_presentation.pdf)
+
 
 ## Revenue Growth Model: Reviewing Cost & Profit Insights
 Analysis of yearly rental revenue data as part of a Thinkful Data Analytics case study for Lariat Car Rental. The purpose of this analysis was to gain insights into customers purchase trends and discover how my client should strategize budget allocations for the next year in order to increase profitability.
@@ -39,18 +43,18 @@ performance. I then designed and presented models that showcased 10% - 30% incre
 
 ## Raise Prices, Increase Profit
 
-Business Objective:
+**Business Objective:**
 To increase yearly profit by raising the daily prices by at least 10% - from $162 to $178.20
 
-Call to Action:
+**Call to Action:**
 Implement the new pricing strategy by raising the daily prices, effective immediately, with growth oriented intentions. This will enable us to increase our overall revenue by an estimated amount, contributing to the company's overall profitability. We encourage our customers to understand that this price increase reflects our commitment to providing high-quality products/services and maintaining excellent customer service.
 
 ## Reduce Costs, Increase Profit
 
-Business Objective:
+**Business Objective:**
 To increase yearly profit to $52,794,574 by cutting unprofitable cars costing a total of $46,078
 
-Call to Action:
+**Call to Action:**
 It would be best to take swift action to reduce our costs and increase our profitability. As part of this initiative, we will cut unprofitable cars costing a total of $46,078. We encourage all team members to support this initiative and work together to identify areas where we can reduce costs while maintaining the highest levels of quality and service. This will enable us to achieve our business objective of increasing yearly profit to $52,794,574, which will in turn provide us with the resources we need to continue investing in our business and delivering value to our customers.
 
 ## Conclusion
