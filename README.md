@@ -60,6 +60,8 @@ It would be best to take swift action to reduce our costs and increase our profi
 ## Conclusion
 
 I recommended implementing either one or both of the 2 main strategies to achieve our business objective of increasing our yearly profit.
-
+<br>
 ➤ Raising daily prices by at least 10%, reflects the value of our products/services and will improve revenue.
+<br>
 ➤ Cutting unprofitable cars will reduce unnecessary expenses and improve our overall profitability.
+</br>
